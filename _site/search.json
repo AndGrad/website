@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Research",
+    "objectID": "experiments.html",
+    "href": "experiments.html",
+    "title": "Experiments",
     "section": "",
-    "text": "Selected publications\nGradassi, A., Slagter, S. K., Pinho, A. da S., Molleman, L., & van den Bos, W. (2023). Network distance and centrality shape social learning in the classroom. School Psychology (Washington, D.C.), 38(2), 67–78. https://doi.org/10.1037/spq0000490  PDF \nGradassi, A., van den Bos, W., & Molleman, L. (2022). Confidence of others trumps confidence of self in social information use. PsyArXiv. https://psyarxiv.com/mqyu2/\nMolleman, L., Tump, A. N., Gradassi, A., Herzog, S., Jayles, B., Kurvers, R. H. J. M., & van den Bos, W. (2020). Strategies for integrating disparate social information. Proceedings. Biological Sciences / The Royal Society, 287(1939), 20202413. https://doi.org/10.1098/rspb.2020.2413\nSlagter, S. K., Gradassi, A., van Duijvenvoorde, A. C. K., & van den Bos, W. (2023). Identifying who adolescents prefer as source of information within their social network. Scientific Reports, 13(1), 20277. https://doi.org/10.1038/s41598-023-46994-0\n Full Publications \n\n\n\n\nBroad interests and future work\nWhile I enjoy digging into details and historical debates, what I find most rewarding is to draw bridges between disciplines and and try to look at problems at different levels of abstractions. I see myself as an interdisciplinary social behavioral researcher, and I don’t identify with a specific discipline. These are the broad research fields and themes that inspire me and I would like to work on in the future.\nSocial Psychology: How humans perceive social relationships and how they learn from their peers\nEvolutionary biology/anthropology: What makes groups come together (cooperation) and break apart (conflict)\nBehavioral economics/policy-making: How we can encourage cooperation with behavioral interventions\nSociology: How social networks structures and socioeconomic factors shape opportunities and life outcomes\nEducation: How rio"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Andrea Gradassi",
-    "section": "",
-    "text": "I’m Andrea, a researcher interested in human social behavior. I like to design experiments to study how people learn from others.\nI am finishing up my PhD in Psychology at the university of Amsterdam, and will be soon looking for a job.\n\nYou can reach out at a.gradassi@uva.nl."
+    "text": "During my PhD, I designed and adapted several behavioral tasks. You can find some examples below.\n\nCharities game\n\n  Header\n  \n    Primary card title\n    \n   \n    Some quick example text to build on the card title and make up the bulk of the card's content.\n  \n\n\n\n  Card header\n  \n    Special title treatment\n    Support card subtitle\n  \n  \n    \n    Image cap\n  \n  \n    Some quick example text to build on the card title and make up the bulk of the card's content.\n  \n  \n  \n    Card link\n    \n  \n  \n\n\n\n\n\nFind the gem\n\n\nBEAST variants\nThe BEAST is a task developed by Mo…. . One of its great properties is how flexible it is to adapt do different contexts"
   },
   {
     "objectID": "cv.html",
@@ -21,11 +14,25 @@
     "text": "I have B.A. in Philosophy (Roma Tre University), a M.Sc. in Neuroscience (School of Mind and Brain, Berlin), and I am finishing a PhD in Psychology.\nI have extensive experience in:\n\nall stages of research (study design, programming experiments/questionnaires, collecting data online, in the lab and in the field, analyzing data, writing research papers)\nsupervising students (Bachelor’s and Master’s)\ncoordinating research projects.\n\n Full CV"
   },
   {
-    "objectID": "experiments.html",
-    "href": "experiments.html",
-    "title": "Experiments",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research",
     "section": "",
-    "text": "During my PhD, I designed and adapted several behavioral tasks. You can find some examples below.\n\nCharities game\n\n\nElection prediction Task\n\n\nFind the gem\n\n\nBEAST variants\nThe BEAST is a task developed by Mo…. . One of its great properties is how flexible it is to adapt do different contexts"
+    "text": "In my PhD I study social learning strategies in adolescents and adults. I look at what type of peers (close friends, popular, smart) are most influential within classrooms, what types of social cues (confidence, expertise, majority) people use when they look at others’ opinions, and weather following others is beneficial or not. The main outcomes of my projects are:\n\nexperimental evidence that people learn more from those socially close to them in their social network (Gradassi et al., 2023)\nhow confidence of self and others shapes social learning (Gradassi et al., 2022);\nhow high-status peers can boost adolescents prosocial behaviour in classrooms (in prep.)\nhow adolescents learn to use social cues of confidence and expertise to improve their decisions over development (in prep.)\nexperimental evidence that sensitivity to peer influence in adolescents is helpful to explore uncertain environments (in progress).\n\n\n\nSelected publications\nGradassi, A., Slagter, S. K., Pinho, A. da S., Molleman, L., & van den Bos, W. (2023). Network distance and centrality shape social learning in the classroom. School Psychology (Washington, D.C.), 38(2), 67–78. https://doi.org/10.1037/spq0000490    PDF  code\nSlagter, S. K., Gradassi, A., van Duijvenvoorde, A. C. K., & van den Bos, W. (2023). Identifying who adolescents prefer as source of information within their social network. Scientific Reports, 13(1), 20277. https://doi.org/10.1038/s41598-023-46994-0    PDF  code\nGradassi, A., van den Bos, W., & Molleman, L. (2022). Confidence of others trumps confidence of self in social information use. PsyArXiv. https://psyarxiv.com/mqyu2/    PDF  code\n Full Publications \n\n\nBroad interests and future work\nWhat I find most rewarding is to draw bridges between disciplines and and try to look at problems at multiple levels of abstractions. I see myself as an interdisciplinary social behavioral researcher, and these are the broad research fields and themes that inspire me and that I would like to work on in the future.\nSocial Psychology: How humans perceive social relationships and how they learn from their peers\nEvolutionary biology/anthropology: What makes groups come together (cooperation) and break apart (conflict)\nBehavioral economics/policy-making: How we can encourage cooperation with behavioral interventions\nSociology: How social networks structures and socioeconomic factors shape opportunities and life outcomes\nEducation: How to design better institutions that take advantage of"
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
+    "section": "",
+    "text": "Science is"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrea Gradassi",
+    "section": "",
+    "text": "I’m Andrea, a researcher interested in human social behavior. I like to design experiments to study how people learn from others.\nI am finishing up my PhD in Psychology at the university of Amsterdam in the Connected Minds Lab, and will be soon looking for a job.\n\nFeel free to reach out at a.gradassi@uva.nl!"
   },
   {
     "objectID": "misc.html#random-list-of-things-i-like",

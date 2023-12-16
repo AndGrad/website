@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  search: false
   title: "Andrea Gradassi"
   navbar:
     left:
@@ -18,7 +19,6 @@ website:
         href: https://twitter.com/andrea_gradassi
       - text: "{{< iconify academicons google-scholar size=lg >}}"
         href: https://scholar.google.com/citations?user=xa8FLKMAAAAJ&hl=en
-    search: false
 format:
   html:
     theme: journal

@@ -2,26 +2,33 @@
 title: "Research"
 ---
 
+::: {#res_intro style="background-color:rgba(218,218,218,.4);padding:20px; border-radius:10px"}
+In my PhD I study [social learning strategies](https://www.sciencedirect.com/science/article/pii/S1364661318300949){target="_blank"} in adolescents and adults. I look at what type of peers (close friends, popular, smart) are most influential within classrooms, what types of social cues (confidence, expertise, majority) people use when they look at others' opinions, and weather following others is beneficial or not. The main outcomes of my projects are:
+
+1.  experimental evidence that people learn more from those socially close to them in their social network (Gradassi et al., 2023)
+
+2.  how confidence of self and others shapes social learning (Gradassi et al., 2022);
+
+3.  how high-status peers can boost adolescents prosocial behaviour in classrooms (in prep.)
+
+4.  how adolescents learn to use social cues of confidence and expertise to improve their decisions over development (in prep.)
+
+5.  experimental evidence that sensitivity to peer influence in adolescents is helpful to explore uncertain environments (in progress).
+:::
+
 ### Selected publications
 
-**Gradassi, A**., Slagter, S. K., Pinho, A. da S., Molleman, L., & van den Bos, W. (2023). Network distance and centrality shape social learning in the classroom. School Psychology (Washington, D.C.), 38(2), 67--78. <https://doi.org/10.1037/spq0000490> <a href="gradassietal2022.pdf" download="gradassi2023.pdf"> <button type="button" class="btn btn-info">PDF</button> </a>
+**Gradassi, A**., Slagter, S. K., Pinho, A. da S., Molleman, L., & van den Bos, W. (2023). Network distance and centrality shape social learning in the classroom. School Psychology (Washington, D.C.), 38(2), 67--78. [https://doi.org/10.1037/spq0000490](https://doi.org/10.1037/spq0000490){.uri target="_blank"}   <a href="gradassietal2022.pdf" download="gradassi2023.pdf"> <button type="button" class="btn btn-info btn-sm">PDF</button></a> <a href="https://github.com/AndGrad/soc_learning_network" target="_blank"> <button type="button" class="btn btn-success btn-sm">code</button></a>
 
+Slagter, S. K., **Gradassi, A**., van Duijvenvoorde, A. C. K., & van den Bos, W. (2023). Identifying who adolescents prefer as source of information within their social network. Scientific Reports, 13(1), 20277. [https://doi.org/10.1038/s41598-023-46994-0](https://doi.org/10.1038/s41598-023-46994-0){.uri target="_blank"}   <a href="gradassietal2022.pdf" download="gradassi2023.pdf"> <button type="button" class="btn btn-info btn-sm">PDF</button></a> <a href="https://osf.io/b5c9d/" target="_blank"> <button type="button" class="btn btn-success btn-sm">code</button></a>
 
-**Gradassi, A**., van den Bos, W., & Molleman, L. (2022). Confidence of others trumps confidence of self in social information use. PsyArXiv. <https://psyarxiv.com/mqyu2/>
+**Gradassi, A**., van den Bos, W., & Molleman, L. (2022). Confidence of others trumps confidence of self in social information use. PsyArXiv. [https://psyarxiv.com/mqyu2/](https://psyarxiv.com/mqyu2/){.uri target="_blank"}   <a href="gradassietal2022.pdf" download="gradassi2023.pdf"> <button type="button" class="btn btn-info btn-sm">PDF</button></a> <a href="https://github.com/AndGrad/Confidence-Self-Others" target="_blank"> <button type="button" class="btn btn-success btn-sm">code</button></a>
 
-Molleman, L., Tump, A. N., **Gradassi, A**., Herzog, S., Jayles, B., Kurvers, R. H. J. M., & van den Bos, W. (2020). Strategies for integrating disparate social information. Proceedings. Biological Sciences / The Royal Society, 287(1939), 20202413. <https://doi.org/10.1098/rspb.2020.2413>
-
-Slagter, S. K., **Gradassi, A**., van Duijvenvoorde, A. C. K., & van den Bos, W. (2023). Identifying who adolescents prefer as source of information within their social network. Scientific Reports, 13(1), 20277. <https://doi.org/10.1038/s41598-023-46994-0>
-
-<a href="https://scholar.google.com/citations?user=xa8FLKMAAAAJ&hl=en"> <button type="button" class="btn btn-primary">Full Publications</button> </a>
-
-
-\
-
+<a href="https://scholar.google.com/citations?user=xa8FLKMAAAAJ&hl=en" target="_blank"> <button type="button" class="btn btn-primary">Full Publications</button> </a>
 
 ### Broad interests and future work
 
-While I enjoy digging into details and historical debates, what I find most rewarding is to draw bridges between disciplines and and try to look at problems at different levels of abstractions. I see myself as an interdisciplinary social behavioral researcher, and I don't identify with a specific discipline. These are the broad research fields and themes that inspire me and I would like to work on in the future.
+What I find most rewarding is to draw bridges between disciplines and and try to look at problems at multiple levels of abstractions. I see myself as an interdisciplinary social behavioral researcher, and these are the broad research fields and themes that inspire me and that I would like to work on in the future.
 
 **Social Psychology:** How humans perceive social relationships and how they learn from their peers
 
@@ -31,4 +38,4 @@ While I enjoy digging into details and historical debates, what I find most rewa
 
 **Sociology:** How social networks structures and socioeconomic factors shape opportunities and life outcomes
 
-**Education:** How rio
+**Education:** How to design better institutions that take advantage of

@@ -4,8 +4,8 @@ title: ""
 
 ![](images/cv-1.png){fig-align="center" width="200"}
 
-I'm Andrea, a researcher interested in human social behavior. I like to [design experiments](/experiments.qmd) to study how people learn from others.
+I'm Andrea, a researcher interested in human social behavior. I like to [design experiments](/experiments.qmd) to study [how people learn from others.](/projects.qmd)
 
-I am finishing up my PhD in Psychology at the university of Amsterdam, **and will be soon looking for a job**.\
+I am finishing up my PhD in Psychology at the university of Amsterdam in the [Connected Minds Lab](https://connectedmindslab.net/), **and will be soon looking for a job**.\
 \
-You can reach out at [a.gradassi\@uva.nl](mailto:a.gradassi@uva.nl).
+Feel free to reach out at [a.gradassi\@uva.nl](mailto:a.gradassi@uva.nl)!

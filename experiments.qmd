@@ -6,37 +6,45 @@ toc: false
 During my PhD, I designed and adapted several behavioral tasks. You can find some examples below.
 
 ```{=html}
-<div class="card border-light mb-3" style="max-width: 40rem;">
-  <div class="card-header" style="background-color:antiquewhite"><h5>Charities Game</></div>
+<div class="card border-light mb-3" style="max-width: 40rem; background-color:white;border-style:solid; border-color:black">
+  <div class="card-header" style="background-color:rgba(239,239,240,.4)"><h5>Charities Game</></div>
   <div class="card-body">
     
    <img src="images/jap_nature.png" alt="Girl in a jacket" style="width:80%;margin:auto;display:block;">
-    <p class="card-text"style="padding:10px;margin-top:5px">A version of the classic Dictator Game, with a real-life twist. Partcipants decide to keep a resource (1 euro) or share with a real Charity. In this version, they see the choices of their real classroom peers. </p>
+    <p class="card-text"style="padding:10px;margin-top:5px">A version of the classic Dictator Game, with a real-life twist. Partcipants decide to keep a resource (1 euro) or share with a real Charity, multiple times. In this version, they see the choices of their real classroom peers. The identity of the peer can be experimentally manipulated to measure influence of different types of peers.</p>
   </div>
 </div>
 ```
 ```{=html}
-<div class="card border-light mb-3" style="max-width: 40rem;">
-  <div class="card-header">Charities Game</div>
+<div class="card border-light mb-3" style="max-width: 40rem; background-color:white;border-style:solid; border-color:black">
+  <div class="card-header" style="background-color:rgba(239,239,240,.4)"><h5>Predict the elections</></div>
   <div class="card-body">
     
    <img src="images/jap_nature.png" alt="Girl in a jacket" style="width:80%;margin:auto;display:block;">
-    <p class="card-text"style="padding:10px;margin-top:5px">A version of the classic Dictator Game, with a real-life twist. Partcipants decide to keep a resource (1 euro) or share with a real Charity. In this version, they see the choices of their real classroom peers. </p>
+    <p class="card-text"style="padding:10px;margin-top:5px">A version of the classic Dictator Game, with a real-life twist. Partcipants decide to keep a resource (1 euro) or share with a real Charity, multiple times. In this version, they see the choices of their real classroom peers. The identity of the peer can be experimentally manipulated to measure influence of different types of peers.</p>
   </div>
 </div>
 ```
 ```{=html}
-<div class="card border-light mb-3" style="max-width: 40rem;">
-  <div class="card-header">Charities Game</div>
+<div class="card border-light mb-3" style="max-width: 40rem; background-color:white;border-style:solid; border-color:black">
+  <div class="card-header" style="background-color:rgba(239,239,240,.4)"><h5>Find the gem</></div>
   <div class="card-body">
     
    <img src="images/jap_nature.png" alt="Girl in a jacket" style="width:80%;margin:auto;display:block;">
-    <p class="card-text"style="padding:10px;margin-top:5px">A version of the classic Dictator Game, with a real-life twist. Partcipants decide to keep a resource (1 euro) or share with a real Charity. In this version, they see the choices of their real classroom peers. </p>
+    <p class="card-text"style="padding:10px;margin-top:5px">A version of the classic Dictator Game, with a real-life twist. Partcipants decide to keep a resource (1 euro) or share with a real Charity, multiple times. In this version, they see the choices of their real classroom peers. The identity of the peer can be experimentally manipulated to measure influence of different types of peers.</p>
   </div>
 </div>
+
 ```
-### Find the gem
 
-### BEAST variants
+```{=html}
+<div class="card border-light mb-3" style="max-width: 40rem; background-color:white;border-style:solid; border-color:black">
+  <div class="card-header" style="background-color:rgba(239,239,240,.4)"><h5>BEAST with social cues</></div>
+  <div class="card-body">
+    
+   <img src="images/jap_nature.png" alt="Girl in a jacket" style="width:80%;margin:auto;display:block;">
+    <p class="card-text"style="padding:10px;margin-top:5px">The BEAST is a task developed by Mo... to measure sensitivity to social information. You estimate how many animals are in a picture, and then you guess how much es is how flexible it is to adapt do different contexts.</p>
+  </div>
+</div>
 
-The BEAST is a task developed by Mo.... . One of its great properties is how flexible it is to adapt do different contexts
+```

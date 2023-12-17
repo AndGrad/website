@@ -1,10 +1,9 @@
 ---
 title: "Misc"
+toc: false
 ---
 
-![](images/jap_nature.png){fig-align="center" width="300"}
-
-## Random list of things I like
+**Random list of things I like**
 
 -   Outdoor sports (not great in anything but who cares).
 
@@ -19,3 +18,5 @@ title: "Misc"
 -   Making roasted potatoes.
 
 -   Going into Reddit rabbit holes.
+
+![](images/IMG_0005.jpg){style="display:flex;" fig-align="center" width="150"}

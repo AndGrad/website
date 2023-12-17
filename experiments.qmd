@@ -1,5 +1,6 @@
 ---
 title: "Experiments"
+toc: false
 ---
 
 During my PhD, I designed and adapted several behavioral tasks. You can find some examples below.

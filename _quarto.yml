@@ -11,7 +11,7 @@ website:
       - projects.qmd
       - experiments.qmd
       - cv.qmd
-      - misc.qmd
+    #  - misc.qmd
     right:
       - icon: github
         href: https://github.com/AndGrad

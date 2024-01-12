@@ -1,17 +1,15 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
   search: false
   title: "Andrea Gradassi"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - projects.qmd
       - experiments.qmd
       - cv.qmd
-    #  - misc.qmd
     right:
       - icon: github
         href: https://github.com/AndGrad

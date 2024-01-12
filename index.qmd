@@ -20,5 +20,5 @@ I like to [design experiments](/experiments.qmd) to study [how people learn from
 
 I am finishing up my PhD in Psychology at the university of Amsterdam in the [Connected Minds Lab](https://connectedmindslab.net/), **and I am looking for a job starting after the summer of 2024**.\
 \
-You can get in touch at [andrea.gradassi\@gmail.com](mailto:andrea.gradassi@gmail.com)!
+You can get in touch at [andrea.gradassi\@gmail.com](mailto:andrea.gradassi@gmail.com).
 :::

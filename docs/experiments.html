@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Andrea Gradassi - Misc</title>
+<title>Andrea Gradassi - Experiments</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,15 +72,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./projects.html" rel="" target="">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./experiments.html" rel="" target="">
+    <a class="nav-link active" href="./experiments.html" rel="" target="" aria-current="page">
  <span class="menu-text">Experiments</span></a>
   </li>  
   <li class="nav-item">
@@ -120,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Misc</h1>
+<h1 class="title">Experiments</h1>
 </div>
 
 
@@ -135,25 +131,35 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p><strong>Random list of things I like</strong></p>
-<ul>
-<li><p>Outdoor sports (not great in anything but who cares).</p></li>
-<li><p>When I can hear the sound of my steps.</p></li>
-<li><p>Modern art musea.</p></li>
-<li><p>Open science and open software.</p></li>
-<li><p>Photography.</p></li>
-<li><p>Making roasted potatoes.</p></li>
-<li><p>Going into Reddit rabbit holes.</p></li>
-</ul>
-<div class="quarto-figure quarto-figure-center" style="display:flex;">
-<figure class="figure">
-<p><img src="images/IMG_0005.jpg" class="img-fluid figure-img" width="150"></p>
-</figure>
+<p>During my PhD, I (co-)designed and adapted several behavioral tasks. Below are some examples of tasks for which I wrote most of the code.</p>
+<div class="card border-light mb-3" style="max-width: 40rem; background-color:white;border-style:solid;    border-width: thick;">
+  <div class="card-header" style="background-color:rgba(239,239,240,.5); border-bottom-width: 0;"><h5 class="anchored">Charities Game</h5></div>
+  <div class="card-body">
+    
+   <img src="images/charities.gif" alt="" style="width:80%;margin:auto;display:block;">
+    <p class="card-text" style="padding:10px;margin-top:5px">A version of the classic Dictator Game, with a real-life twist. Partcipants decide to keep a resource (1 euro) or share with a real Charity, multiple times. In this version, they see the choices of their real classroom peers. The identity of the peer can be experimentally manipulated to measure influence of different types of peers.</p>
+  </div>
 </div>
+<div class="card border-light mb-3" style="max-width: 40rem; background-color:white;border-style:solid;    border-width: thick;">
+  <div class="card-header" style="background-color:rgba(239,239,240,.5); border-bottom-width: 0;"><h5 class="anchored">Predict the elections</h5></div>
+  <div class="card-body">
+    
+   <img src="images/elections.gif" alt="" style="width:80%;margin:auto;display:block;">
+    <p class="card-text" style="padding:10px;margin-top:5px">A realistic estimation game with a social component. In October 2020, participants were asked to predict the result of the upcoming US elections. Before submitting their final prediction, they could see the (real) prediction of a previous participant in the experiment. We studied how much people adjusted as a function of the political identity and confidence of the player they were matched with.</p>
+  </div>
+</div>
+  <div class="card-header" style="background-color:rgba(239,239,240,.5); border-bottom-width: 0;"><h5 class="anchored">Find the gem</h5></div>
+  <div class="card-body">
+    
+   <img src="images/sb.gif" alt="" style="width:80%;margin:auto;display:block;">
+    <p class="card-text" style="padding:10px;margin-top:5px">A social version of the multi-armed bandit task, designed to measure how people solve explore/exploit problems. This version of the task was inspired by <a href="http://doi.org/10.1038/s41562-018-0467-4" target="_blank()"> Wu et al., 2018</a>, and designed to test some predictions from <a href="https://doi.org/10.1016/j.dr.2021.100979" target="_blank()"> Ciranka &amp; van den Bos, 2021</a>. Participans have to explore an 8x8 grid in 25 clicks and maximise total points. Some options earn  points, some lose. Some environments contain highly rewarding options, or "gems". These are up to 5x valuable than the second best options, thus worth finding. In the social version, players see the choices of a previous participant, who could help (or hinder) exploration. </p>
+  
+  </div>
+</main></div>
 
 
 
-</main> <!-- /main -->
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -387,7 +393,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-</div> <!-- /content -->
+ <!-- /content -->
 
 
 

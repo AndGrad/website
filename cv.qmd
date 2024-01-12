@@ -2,13 +2,13 @@
 title: "CV"
 ---
 
-I have **B.A. in Philosophy** (Roma Tre University), a **M.Sc. in Neuroscience** (School of Mind and Brain, Berlin), and I am finishing a **PhD in Psychology.**
+I have **B.A. in Philosophy** (Roma Tre University), a **M.Sc. in Cognitive Neuroscience** (Humboldt University, Berlin), and I am finishing a **PhD in Psychology** (University of Amsterdam)**.**
 
 I have extensive experience in:
 
--   all stages of research (study design, programming experiments/questionnaires, collecting data online, in the lab and in the field, analyzing data, writing research papers)
+-   all stages of research (study design, programming experiments/questionnaires, collecting data online, in the lab and in the field, analyzing data, writing research papers).
 
--   supervising students (Bachelor's and Master's)
+-   supervising students (Bachelor's and Master's).
 
 -   managing research projects.
 

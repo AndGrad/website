@@ -18,8 +18,8 @@ format:
 I'm Andrea, a researcher interested in human social behavior.\
 I like to [design experiments](/experiments.qmd) to study [how people learn from others.](/projects.qmd)
 
-I am finishing up my PhD in Psychology at the university of Amsterdam in the [Connected Minds Lab](https://connectedmindslab.net/), **and I am looking for a job starting after the summer of 2024**.\
+I am finishing up my PhD in Psychology at the university of Amsterdam in the [Connected Minds Lab](https://connectedmindslab.net/).\
 \
-You can get in touch at\
+Feel free to get in touch at\
 [andrea.gradassi\@gmail.com](mailto:andrea.gradassi@gmail.com).
 :::

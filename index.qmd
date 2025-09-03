@@ -15,10 +15,12 @@ format:
 ::: {#intro style="margin:auto; text-align:center;border-radius:10px; background-color: white;padding:20px; width:60%"}
 ![](images/pic_cv.png){fig-align="center" width="200"}
 
-I'm Andrea, a researcher interested in human social behavior.\
+I'm Andrea, a researcher interested in human social behavior.
+
+\
 I like to [design experiments](/experiments.qmd) to study [how people learn from others.](/projects.qmd)
 
-I am working as a Postdoctoral Researcher at [LABSS](https://labss.istc.cnr.it).\
+I am currently working as a Postdoctoral Researcher at [LABSS](https://labss.istc.cnr.it).\
 \
 Feel free to get in touch at\
 [andrea.gradassi\@gmail.com](mailto:andrea.gradassi@gmail.com).

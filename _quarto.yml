@@ -13,8 +13,6 @@ website:
     right:
       - icon: github
         href: https://github.com/AndGrad
-      - icon: twitter
-        href: https://twitter.com/andrea_gradassi
       - text: "{{< iconify academicons google-scholar size=lg >}}"
         href: https://scholar.google.com/citations?user=xa8FLKMAAAAJ&hl=en
 format:
